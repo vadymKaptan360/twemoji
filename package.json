@@ -1,9 +1,9 @@
 {
   "version": "14.1.0",
-  "name": "@jdecked/twemoji",
+  "name": "@vadymKaptan360/twemoji",
   "license": "MIT AND CC-BY-4.0",
   "description": "A Unicode standard based way to implement emoji across all platforms.",
-  "homepage": "https://github.com/jdecked/twemoji",
+  "homepage": "https://github.com/vadymKaptan360/twemoji",
   "keywords": [
     "emoji",
     "DOM",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jdecked/twemoji.git"
+    "url": "git://github.com/vadymKaptan360/twemoji.git"
   },
   "main": "./dist/twemoji.npm.js",
   "module": "./dist/twemoji.esm.js",
