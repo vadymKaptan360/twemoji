@@ -15,14 +15,14 @@ Default CDN support is provided via [jsDelivr](https://www.jsdelivr.com/).
 Use the following in the `<head>` tag of your HTML document(s):
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@jdecked/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
 ```
 
 This guarantees that you will always use the latest version of the library.
 
 If, instead, you'd like to include the latest version explicitly, you can add the following tag:
 ```html
-<script src="https://cdn.jsdelivr.net/npm/twemoji@14.1.0/dist/twemoji.min.js integrity="sha384-fnFPYlhNf3STPDIrLJAcAdi9ehsmkE48MwSD7LehvZ9jqMgEm7nuVLXvXXMIQDn0" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@jdecked/twemoji@14.1.0/dist/twemoji.min.js integrity="sha384-fnFPYlhNf3STPDIrLJAcAdi9ehsmkE48MwSD7LehvZ9jqMgEm7nuVLXvXXMIQDn0" crossorigin="anonymous"></script>
 ```
 
 ### Download
