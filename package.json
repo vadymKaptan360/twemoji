@@ -1,6 +1,7 @@
 {
   "version": "14.1.0",
   "name": "@twemoji/api",
+  "private": false,
   "license": "MIT AND CC-BY-4.0",
   "description": "A Unicode standard based way to implement emoji across all platforms.",
   "homepage": "https://github.com/jdecked/twemoji",
